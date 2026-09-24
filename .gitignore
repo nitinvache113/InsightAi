@@ -1,0 +1,32 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment / Secrets
+.env
+*.env
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Raw dataset
+data/raw/*.csv
+"@ | Set-Content .gitignore

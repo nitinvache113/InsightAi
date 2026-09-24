@@ -1,0 +1,21 @@
+feature,mean_abs_shap
+categorical__Contract_Month-to-month,0.7752351
+numerical__tenure,0.51208824
+categorical__OnlineSecurity_No,0.3120929
+numerical__MonthlyCharges,0.274652
+categorical__Contract_Two year,0.22123297
+categorical__PaymentMethod_Electronic check,0.21955192
+categorical__TechSupport_No,0.21680506
+numerical__TotalCharges,0.20581195
+categorical__InternetService_Fiber optic,0.17679964
+categorical__OnlineBackup_No,0.107733406
+categorical__PaperlessBilling_No,0.10629406
+categorical__MultipleLines_No,0.100319
+categorical__StreamingMovies_Yes,0.09953145
+categorical__InternetService_DSL,0.089121915
+categorical__StreamingTV_Yes,0.07876227
+categorical__gender_Female,0.06665793
+categorical__DeviceProtection_No,0.06498114
+categorical__Contract_One year,0.06166398
+categorical__Dependents_No,0.05903305
+categorical__DeviceProtection_Yes,0.058933083
